@@ -1,0 +1,18 @@
+{
+    "vlad": {
+        "characters": [
+            {
+                "name": "Jim",
+                "stats":{
+                    "hp":{
+                        "value": 10,
+                        "max": 10
+                    }
+                }
+            }
+        ]
+    },
+    "george": {
+        "characters": []
+    }
+}
